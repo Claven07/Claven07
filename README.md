@@ -37,14 +37,27 @@
 
 ---
 
-## Open-Source Engineering
+## Open Source
 
-*Focused on making agent behavior observable and execution more reliable.*
-
-| Project | Work | Evidence |
-| --- | --- | --- |
-| **dsh-plugin-agent-insights** | A DeepSeek Harness community plugin that tracks agent steps, LLM request outcomes, tool results and latency, slow tools, session duration, and session disposal. | [Source](https://github.com/Claven07/dsh-plugin-agent-insights) · [Harness discussion #6662](https://github.com/deepseek-ai/deepseek-harness/discussions/6662) · [Technical write-up](https://dev.to/claven07/building-session-level-observability-for-deepseek-harness-with-a-community-plugin-19n6) |
-| **browser-use** | Open PR #5956 exposes the finalized video recording path through `AgentHistoryList`, with handling for session resets, `keep_alive`, history serialization, path redaction, and recording failures. | [Pull request #5956](https://github.com/browser-use/browser-use/pull/5956) |
+<table width="100%">
+  <tbody>
+    <tr>
+      <td width="50%" valign="top">
+        <p align="center"><a href="https://github.com/deepseek-ai/deepseek-harness"><img src="https://github.com/deepseek-ai.png?size=120" width="56" height="56" alt="DeepSeek AI logo" /></a></p>
+        <h3 align="center"><a href="https://github.com/deepseek-ai/deepseek-harness">DeepSeek Harness</a></h3>
+        <p align="center"><strong>Community plugin</strong><br /><a href="https://github.com/Claven07/dsh-plugin-agent-insights">dsh-plugin-agent-insights</a></p>
+        <p>Community plugin for session-level agent observability, covering agent steps, LLM requests, tool execution and performance.</p>
+        <p><a href="https://dev.to/claven07/building-session-level-observability-for-deepseek-harness-with-a-community-plugin-19n6">Technical write-up</a></p>
+      </td>
+      <td width="50%" valign="top">
+        <p align="center"><a href="https://github.com/browser-use/browser-use"><img src="https://github.com/browser-use.png?size=120" width="56" height="56" alt="browser-use logo" /></a></p>
+        <h3 align="center"><a href="https://github.com/browser-use/browser-use">browser-use</a></h3>
+        <p align="center"><strong>Open-source contribution</strong></p>
+        <p>Open-source contribution to browser-agent infrastructure and browser automation.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Where I'm Heading
 
