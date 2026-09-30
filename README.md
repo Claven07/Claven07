@@ -21,7 +21,7 @@
 - I am developing **VX-1** as an engineering and research initiative around reasoning, intent handling, memory, and model orchestration.
 - I have worked on **Mendium**, a document-aware AI conversation system spanning RAG, streaming, model routing and fallbacks, conversation state, durable memory, and PostgreSQL-backed persistence.
 - My systems work also covers capacity management, queues, concurrency, quotas, and failure handling: the runtime details that shape whether an AI feature remains dependable.
-- My public agent-engineering work includes a session observability plugin for DeepSeek Harness and an open [browser-use pull request](https://github.com/browser-use/browser-use/pull/5956) for recording-path handling.
+- My agent-engineering work includes a session-level observability plugin for DeepSeek Harness and a browser-use contribution that exposes browser recording paths through agent history.
 - I am going deeper into agent harnesses, browser and computer use, MCP, and observability for tool-using systems.
 
 ## Currently
@@ -32,7 +32,7 @@
 | Agent engineering | Harness execution loops, tool lifecycles, browser automation, and session continuity. |
 | LLM systems | RAG, streaming, model and provider routing, fallbacks, and durable conversation state. |
 | Reliability | Queueing, concurrency, capacity and quota handling, and observable failure paths. |
-| Open source | Session-level observability for DeepSeek Harness; browser recording work in [browser-use PR #5956](https://github.com/browser-use/browser-use/pull/5956). |
+| Open source | Session-level observability for DeepSeek Harness; browser recording paths surfaced in agent history. |
 | Exploring | MCP and the runtime design behind reliable browser and computer-use agents. |
 
 ---
