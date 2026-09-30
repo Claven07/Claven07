@@ -63,11 +63,59 @@
 
 ## Experience
 
-### Professional
+### Full-Time
 
-| Company | Role | Period |
-| --- | --- | --- |
-| [Vynexa](https://www.linkedin.com/company/vynexa-ai/) | Founder | Present |
+<table>
+  <thead>
+    <tr>
+      <th align="center">Logo</th>
+      <th align="left">Company</th>
+      <th align="left">Role</th>
+      <th align="left">Period</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><img src="https://media.licdn.com/dms/image/v2/D560BAQEEaEiFyI23ig/company-logo_200_200/B56Zqd8eDVHIAI-/0/1763586466909?e=2147483647&v=beta&t=SbWiyO0xm44ATCFNXlR2QNl1NDsO6tMHELjVbsiVIWw" width="36" height="36" alt="Vynexa logo" /></td>
+      <td><a href="https://www.linkedin.com/company/vynexa-ai/">Vynexa</a></td>
+      <td>Founder</td>
+      <td>2025 – Present</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://www.google.com/s2/favicons?domain=offset-us.com&sz=64" width="36" height="36" alt="Offset logo" /></td>
+      <td><a href="https://www.linkedin.com/company/mogramxyz/">Offset</a></td>
+      <td>Junior UI/UX Designer</td>
+      <td>May 2025 – Mar 2026</td>
+    </tr>
+  </tbody>
+</table>
+
+### Internship
+
+<table>
+  <thead>
+    <tr>
+      <th align="center">Logo</th>
+      <th align="left">Company</th>
+      <th align="left">Role</th>
+      <th align="left">Period</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><img src="https://www.ziiontechnology.in/static/media/Ziion-technology-logo.4077d3297fff27a32c30.png" width="36" height="36" alt="Ziion Technology logo" /></td>
+      <td><a href="https://www.ziiontechnology.in/">Ziion Technology</a></td>
+      <td>Frontend Engineer Intern</td>
+      <td>May 2025 – Jul 2025</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://www.google.com/s2/favicons?domain=offset-us.com&sz=64" width="36" height="36" alt="Offset logo" /></td>
+      <td><a href="https://www.linkedin.com/company/mogramxyz/">Offset</a></td>
+      <td>UI Design Intern</td>
+      <td>Sep 2024 – May 2025</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Research & Engineering Interests
 
