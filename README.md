@@ -2,9 +2,11 @@
 
 # Omansh Bhatnagar
 
-### AI Engineer · LLM Systems · Agent Engineering · AI Infrastructure
+### AI Engineer focused on LLM systems, autonomous agents, agent harnesses & AI infrastructure.
 
-*Building AI systems and agent tooling at [Vynexa](https://www.vynexaai.site/), Chandigarh.*
+**Founder — Vynexa** · [Website](https://www.vynexaai.site/) · [Company LinkedIn](https://www.linkedin.com/company/vynexa-ai/)
+
+*Building AI systems, intelligent software, autonomous agents, and supporting infrastructure.*
 
 [GitHub](https://github.com/Claven07) · [LinkedIn](https://www.linkedin.com/in/omansh-bhatnagar07/) · [Dev.to](https://dev.to/claven07) · [Vynexa](https://www.vynexaai.site/)
 
@@ -15,7 +17,7 @@
 ## About Me
 
 - I build LLM systems across model orchestration, retrieval and memory, agent execution, and the infrastructure around them.
-- At [Vynexa](https://www.linkedin.com/company/vynexa-ai/), I work on intelligent software, agent systems, and AI infrastructure.
+- I founded [Vynexa](https://www.linkedin.com/company/vynexa-ai/), an AI-focused product and company initiative based in Chandigarh. I am building intelligent software, agent systems, and supporting infrastructure.
 - I am developing **VX-1** as an engineering and research initiative around reasoning, intent handling, memory, and model orchestration.
 - I have worked on **Mendium**, a document-aware AI conversation system spanning RAG, streaming, model routing and fallbacks, conversation state, durable memory, and PostgreSQL-backed persistence.
 - My systems work also covers capacity management, queues, concurrency, quotas, and failure handling: the runtime details that shape whether an AI feature remains dependable.
@@ -65,7 +67,7 @@
 
 | Company | Role | Period |
 | --- | --- | --- |
-| [Vynexa](https://www.linkedin.com/company/vynexa-ai/) | AI Engineer | Present |
+| [Vynexa](https://www.linkedin.com/company/vynexa-ai/) | Founder | Present |
 
 ## Research & Engineering Interests
 
