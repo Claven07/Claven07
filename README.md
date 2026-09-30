@@ -97,7 +97,7 @@
       <td>2025 – Present</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://www.google.com/s2/favicons?domain=offset-us.com&sz=64" width="36" height="36" alt="Offset logo" /></td>
+      <td align="center"><img src="assets/mogramxyz_logo.jpeg" width="36" height="36" alt="Offset logo" /></td>
       <td><a href="https://www.linkedin.com/company/mogramxyz/">Offset</a></td>
       <td>Junior UI/UX Designer</td>
       <td>May 2025 – Mar 2026</td>
@@ -124,7 +124,7 @@
       <td>May 2025 – Jul 2025</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://www.google.com/s2/favicons?domain=offset-us.com&sz=64" width="36" height="36" alt="Offset logo" /></td>
+      <td align="center"><img src="assets/mogramxyz_logo.jpeg" width="36" height="36" alt="Offset logo" /></td>
       <td><a href="https://www.linkedin.com/company/mogramxyz/">Offset</a></td>
       <td>UI Design Intern</td>
       <td>Sep 2024 – May 2025</td>
