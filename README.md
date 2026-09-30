@@ -2,78 +2,115 @@
 
 # Omansh Bhatnagar
 
-### AI Engineer focused on LLM systems, autonomous agents, agent harnesses &amp; AI infrastructure.
+### AI Engineer · LLM Systems · Agent Engineering · AI Infrastructure
 
-[GitHub](https://github.com/Claven07) &nbsp;·&nbsp; [Public repositories](https://github.com/Claven07?tab=repositories) &nbsp;·&nbsp; [Dev.to](https://dev.to/claven07)
+*Building AI systems and agent tooling at [Vynexa](https://www.vynexaai.site/), Chandigarh.*
+
+[GitHub](https://github.com/Claven07) · [LinkedIn](https://www.linkedin.com/in/omansh-bhatnagar07/) · [Dev.to](https://dev.to/claven07) · [Vynexa](https://www.vynexaai.site/)
 
 </div>
 
 ---
 
-I build the systems around language models: model orchestration, agent execution, retrieval and memory, and the infrastructure that makes AI software dependable.
+## About Me
 
-At **Vynexa**, I’m working on **VX-1**, an AI systems initiative focused on reasoning, intent handling, memory, and model orchestration. I’ve also worked on **Mendium**, a document-aware AI workspace with RAG and reliability-focused model routing.
+- I build LLM systems across model orchestration, retrieval and memory, agent execution, and the infrastructure around them.
+- At [Vynexa](https://www.linkedin.com/company/vynexa-ai/), I work on intelligent software, agent systems, and AI infrastructure.
+- I am developing **VX-1** as an engineering and research initiative around reasoning, intent handling, memory, and model orchestration.
+- I have worked on **Mendium**, a document-aware AI conversation system spanning RAG, streaming, model routing and fallbacks, conversation state, durable memory, and PostgreSQL-backed persistence.
+- My systems work also covers capacity management, queues, concurrency, quotas, and failure handling: the runtime details that shape whether an AI feature remains dependable.
+- My public agent-engineering work includes a session observability plugin for DeepSeek Harness and an open [browser-use pull request](https://github.com/browser-use/browser-use/pull/5956) for recording-path handling.
+- I am going deeper into agent harnesses, browser and computer use, MCP, and observability for tool-using systems.
 
-## Currently building
+## Currently
 
-| System | Focus |
+| Focus | Details |
 | --- | --- |
-| **Vynexa · VX-1** | An AI system initiative exploring reasoning, intent handling, memory, model orchestration, and agent systems. |
+| Building | **Vynexa / VX-1** — reasoning, intent handling, memory, and model orchestration within an AI systems initiative. |
+| Agent engineering | Harness execution loops, tool lifecycles, browser automation, and session continuity. |
+| LLM systems | RAG, streaming, model and provider routing, fallbacks, and durable conversation state. |
+| Reliability | Queueing, concurrency, capacity and quota handling, and observable failure paths. |
+| Open source | Session-level observability for DeepSeek Harness; browser recording work in [browser-use PR #5956](https://github.com/browser-use/browser-use/pull/5956). |
+| Exploring | MCP and the runtime design behind reliable browser and computer-use agents. |
 
-## Selected systems
+---
 
-| System | Focus |
+## Open-Source Engineering
+
+*Focused on making agent behavior observable and execution more reliable.*
+
+| Project | Work | Evidence |
+| --- | --- | --- |
+| **dsh-plugin-agent-insights** | A DeepSeek Harness community plugin that tracks agent steps, LLM request outcomes, tool results and latency, slow tools, session duration, and session disposal. | [Source](https://github.com/Claven07/dsh-plugin-agent-insights) · [Harness discussion #6662](https://github.com/deepseek-ai/deepseek-harness/discussions/6662) · [Technical write-up](https://dev.to/claven07/building-session-level-observability-for-deepseek-harness-with-a-community-plugin-19n6) |
+| **browser-use** | Open PR #5956 exposes the finalized video recording path through `AgentHistoryList`, with handling for session resets, `keep_alive`, history serialization, path redaction, and recording failures. | [Pull request #5956](https://github.com/browser-use/browser-use/pull/5956) |
+
+## Where I'm Heading
+
+*Open-source engineering and AI systems directions I'm pushing into over the next 6–12 months.*
+
+| Track | Direction |
 | --- | --- |
-| **Mendium** | Document-aware conversations with RAG, streaming responses, model routing and provider fallback, durable conversation state, and capacity management. |
+| Agent harnesses | Strengthen execution loops, tool contracts, lifecycle handling, and recovery from agent or tool failures. |
+| Browser and computer use | Connect agent plans to browser and environment actions, then verify outcomes and preserve useful run state. |
+| LLM infrastructure | Work on model and provider routing, streaming, retries, fallbacks, quotas, concurrency, and queue behavior. |
+| Agent memory | Improve retrieval, durable state, and session continuity for longer-running interactions. |
+| Observability | Trace agent steps, model requests, tool execution, latency, and failures at the session level. |
+| Open source | Make focused contributions to agent runtimes, browser automation, and developer tooling. |
 
-## AI engineering focus
+---
 
-| Domain | Areas |
+## Experience
+
+### Professional
+
+| Company | Role | Period |
+| --- | --- | --- |
+| [Vynexa](https://www.linkedin.com/company/vynexa-ai/) | AI Engineer | Present |
+
+## Research & Engineering Interests
+
+| Area | Problems I work on |
 | --- | --- |
-| **LLM systems** | Model orchestration and routing · provider fallback · inference · context management · structured outputs · streaming |
-| **Agent systems** | Autonomous agents · harnesses and runtimes · tool calling · browser and computer use · MCP · agent state and memory |
-| **AI infrastructure** | Concurrency · queues · quotas and rate limits · retries and circuit breakers · fault tolerance · observability · deployment |
-| **Retrieval &amp; memory** | RAG · embeddings · retrieval and reranking · MMR · vector search · durable conversation state |
+| Agent runtimes | Execution loops, tool dispatch, session lifecycle, and controlled recovery. |
+| Model orchestration | Routing, streaming, provider fallbacks, and failure behavior across model calls. |
+| Retrieval and memory | Retrieval quality, document-aware conversations, and durable session state. |
+| AI infrastructure | Capacity, queueing, concurrency, quotas, and rate-limit behavior. |
+| Observability | Session-level visibility into agent steps, LLM requests, tool latency, and errors. |
 
-## Open-source work
+## Tech Stack
 
-| Project | Work |
+| Category | Technologies and engineering patterns |
 | --- | --- |
-| [browser-use](https://github.com/browser-use/browser-use) | **[Open PR #5956](https://github.com/browser-use/browser-use/pull/5956)** proposes exposing finalized browser recording paths through `AgentHistoryList`, with session-lifecycle handling, history serialization, and path redaction. |
-| [dsh-plugin-agent-insights](https://github.com/Claven07/dsh-plugin-agent-insights) | A public DeepSeek Harness plugin for session-scoped agent steps, LLM request outcomes, tool metrics, and runtime durations, with cleanup tied to session disposal. Shared with the [DeepSeek Harness community](https://github.com/deepseek-ai/deepseek-harness/discussions/6662) and documented in a [technical write-up](https://dev.to/claven07/building-session-level-observability-for-deepseek-harness-with-a-community-plugin-19n6). |
+| Languages | Python · TypeScript |
+| LLM and agent systems | LLM APIs · RAG · model routing and fallbacks · tool calling · MCP · DeepSeek Harness / Cordis · browser-use |
+| Data and runtime | PostgreSQL-backed state · streaming · queues · concurrency · capacity and quota handling |
+| Testing and quality | pytest · Vitest · Ruff · Pyright |
 
-## Technical toolkit
+## Projects
 
-**Languages**<br>
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+| Project | Engineering scope | Link |
+| --- | --- | --- |
+| **VX-1** | Vynexa's AI systems initiative exploring reasoning, intent handling, memory, model orchestration, and agent systems. | [Vynexa](https://www.vynexaai.site/) |
+| **Mendium** | Document-aware AI conversations with RAG and streaming, model routing and fallback, durable memory, PostgreSQL-backed state, and reliability-focused capacity management. | [Repository · private](https://github.com/Claven07/Tyrant) |
+| **dsh-plugin-agent-insights** | Session-scoped instrumentation for agent steps, model requests, tool execution, latency, failures, and lifecycle cleanup. | [Repository](https://github.com/Claven07/dsh-plugin-agent-insights) |
+| **browser-use contribution** | An open pull request to expose finalized browser video recordings through agent history and preserve the path safely across session lifecycle events. | [PR #5956](https://github.com/browser-use/browser-use/pull/5956) |
+| **KAIRO** | A natural-language workflow automation prototype with a visual workflow graph and simulated multi-step runs. | [Repository](https://github.com/Claven07/KAIRO) |
 
-**Application &amp; data**<br>
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com/)
+## Activity
 
-**Infrastructure &amp; tooling**<br>
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/) [![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/) · Git · GitHub · MCP
+| Surface | Link |
+| --- | --- |
+| Contributions | [GitHub profile and contribution graph](https://github.com/Claven07) |
+| Public code | [Repositories](https://github.com/Claven07?tab=repositories) |
+| Open-source review | [browser-use PR #5956](https://github.com/browser-use/browser-use/pull/5956) |
+| Community work | [DeepSeek Harness discussion #6662](https://github.com/deepseek-ai/deepseek-harness/discussions/6662) |
 
-**System patterns**<br>
-LLM orchestration · tool calling · browser automation · queues · PostgreSQL-backed state · RAG · retries and fallbacks
+## Education
 
-## GitHub activity &amp; statistics
+| Institution | Period |
+| --- | --- |
+| Chandigarh University | 2023–Present |
 
-<div align="center">
-  <a href="https://github.com/Claven07">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Claven07&amp;show_icons=true&amp;hide_border=true&amp;hide=stars,issues&amp;hide_rank=true&amp;theme=transparent" alt="Public commits, pull requests, and contribution activity for Claven07" />
-  </a>
-</div>
+## Beyond Code
 
-<p align="center"><a href="https://github.com/Claven07">Contribution graph &amp; public activity</a> · <a href="https://github.com/Claven07?tab=repositories">Repositories</a></p>
-
-## Exploring
-
-- Durable agent state and memory across sessions.
-- Observability and failure handling for tool-using runtimes.
-- Retrieval quality and model-routing behavior in AI workspaces.
-
-## Connect
-
-[GitHub](https://github.com/Claven07) &nbsp;·&nbsp; [Dev.to](https://dev.to/claven07)
-
-Open to technical conversations about agent runtimes, LLM reliability, and AI infrastructure.
+I’m drawn to the engineering work that makes AI products easier to inspect, operate, and extend: open-source tools, agent observability, and resilient systems.
