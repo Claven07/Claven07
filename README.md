@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="assets/cyberpunk-david.gif" alt="Cyberpunk David Martinez" width="100%" />
 
 # Omansh Bhatnagar
 
