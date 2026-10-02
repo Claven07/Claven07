@@ -164,12 +164,6 @@
 
 ## Activity
 
-| Surface | Link |
-| --- | --- |
-| Contributions | [GitHub profile and contribution graph](https://github.com/Claven07) |
-| Public code | [Repositories](https://github.com/Claven07?tab=repositories) |
-| Open-source review | [browser-use PR #5956](https://github.com/browser-use/browser-use/pull/5956) |
-| Community work | [DeepSeek Harness discussion #6662](https://github.com/deepseek-ai/deepseek-harness/discussions/6662) |
 
 ## Education
 
