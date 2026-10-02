@@ -154,13 +154,13 @@
 
 ## Projects
 
-| Project | Engineering scope | Link |
-| --- | --- | --- |
-| **VX-1** | Vynexa's AI systems initiative exploring reasoning, intent handling, memory, model orchestration, and agent systems. | [Vynexa](https://www.vynexaai.site/) |
-| **Mendium** | Document-aware AI conversations with RAG and streaming, model routing and fallback, durable memory, PostgreSQL-backed state, and reliability-focused capacity management. | [Repository · private](https://github.com/Claven07/Tyrant) |
-| **dsh-plugin-agent-insights** | Session-scoped instrumentation for agent steps, model requests, tool execution, latency, failures, and lifecycle cleanup. | [Repository](https://github.com/Claven07/dsh-plugin-agent-insights) |
-| **browser-use contribution** | An open pull request to expose finalized browser video recordings through agent history and preserve the path safely across session lifecycle events. | [PR #5956](https://github.com/browser-use/browser-use/pull/5956) |
-| **KAIRO** | A natural-language workflow automation prototype with a visual workflow graph and simulated multi-step runs. | [Repository](https://github.com/Claven07/KAIRO) |
+| Project | Engineering scope |
+| --- | --- |
+| **VX-1** | Vynexa's AI systems initiative exploring reasoning, intent handling, memory, model orchestration, and agent systems. |
+| **Mendium** | Document-aware AI conversations with RAG and streaming, model routing and fallback, durable memory, PostgreSQL-backed state, and reliability-focused capacity management. |
+| **dsh-plugin-agent-insights** | Session-scoped instrumentation for agent steps, model requests, tool execution, latency, failures, and lifecycle cleanup. |
+| **browser-use contribution** | An open pull request to expose finalized browser video recordings through agent history and preserve the path safely across session lifecycle events. |
+| **KAIRO** | A natural-language workflow automation prototype with a visual workflow graph and simulated multi-step runs. |
 
 ## Activity
 
