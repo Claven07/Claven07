@@ -47,8 +47,11 @@
         <p align="center"><a href="https://github.com/deepseek-ai/deepseek-harness"><img src="https://github.com/deepseek-ai.png?size=120" width="56" height="56" alt="DeepSeek AI logo" /></a></p>
         <h3 align="center"><a href="https://github.com/deepseek-ai/deepseek-harness">DeepSeek Harness</a></h3>
         <p align="center"><strong></strong><br /><a href="https://github.com/Claven07/deepseek-harness">Claven07/deepseek-harness</a></p>
-        <p align="center"><strong>Community plugin</strong><br /><a href="https://github.com/Claven07/dsh-plugin-agent-insights">dsh-plugin-agent-insights</a></p>
+        <p align="center"><strong>Community plugin</strong></p>
+        <p align="center"><a href="https://github.com/Claven07/dsh-plugin-agent-insights">dsh-plugin-agent-insights</a></p>
         <p>Community plugin for session-level agent observability, covering agent steps, LLM requests, tool execution and performance.</p>
+        <p align="center"><a href="https://github.com/Claven07/dsh-knowledge-core">dsh-knowledge-core</a></p>
+        <p>Persistent, evidence-backed project memory stored in scoped SQLite records, with an optional DeepSeek Harness adapter and bounded retrieval.</p>
         <p><a href="https://dev.to/claven07/building-session-level-observability-for-deepseek-harness-with-a-community-plugin-19n6">Technical write-up</a></p>
       </td>
       <td width="50%" valign="top">
@@ -57,14 +60,6 @@
         <p align="center"><strong></strong><br /><a href="https://github.com/Claven07/browser-use">Claven07/browser-use</a></p>
         <p align="center"><strong>Open-source contribution</strong></p>
         <p>Open-source contribution to browser-agent infrastructure and browser automation.</p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <p align="center"><a href="https://github.com/Claven07/dsh-knowledge-core"><img src="https://avatars.githubusercontent.com/u/140247694?v=4" width="56" height="56" alt="Claven07 GitHub avatar" /></a></p>
-        <h3 align="center"><a href="https://github.com/Claven07/dsh-knowledge-core">dsh-knowledge-core</a></h3>
-        <p align="center"><strong>Community plugin</strong></p>
-        <p>Persistent, evidence-backed project memory for coding agents, stored as workspace- and project-scoped SQLite records. Its optional DeepSeek Harness adapter exposes knowledge tools and bounded memory retrieval before agent steps.</p>
       </td>
     </tr>
   </tbody>
