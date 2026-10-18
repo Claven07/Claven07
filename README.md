@@ -59,6 +59,14 @@
         <p>Open-source contribution to browser-agent infrastructure and browser automation.</p>
       </td>
     </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <p align="center"><a href="https://github.com/Claven07/dsh-knowledge-core"><img src="https://avatars.githubusercontent.com/u/140247694?v=4" width="56" height="56" alt="Claven07 GitHub avatar" /></a></p>
+        <h3 align="center"><a href="https://github.com/Claven07/dsh-knowledge-core">dsh-knowledge-core</a></h3>
+        <p align="center"><strong>Community plugin</strong></p>
+        <p>Persistent, evidence-backed project memory for coding agents, stored as workspace- and project-scoped SQLite records. Its optional DeepSeek Harness adapter exposes knowledge tools and bounded memory retrieval before agent steps.</p>
+      </td>
+    </tr>
   </tbody>
 </table>
 
